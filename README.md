@@ -1,5 +1,5 @@
 # ActiveGamesTemplatePage
-### Hosted Link: 
+### Hosted Link: https://divyanshrajpoot9.github.io/ActiveGamesTemplatePage/
 ### HTML (Hypertext Markup Language) uses a variety of tags to structure web content. These tags provide the basic building blocks for creating web pages. 
 ### Brief description of some of the most commonly used HTML tags:
 
@@ -64,4 +64,12 @@
 - `top`, `right`, `bottom`, and `left`: Controls the positioning of an element when using `position: absolute` or `position: relative`.
 
 These CSS properties provide extensive control over the presentation and layout of HTML elements on web pages.
-
+![Screenshot 2023-09-13 212005](https://github.com/divyanshrajpoot9/ActiveGamesTemplatePage/assets/114856467/bc38ee7e-e85b-45c8-be5e-dd95a2176e7c)
+![Screenshot 2023-09-13 212027](https://github.com/divyanshrajpoot9/ActiveGamesTemplatePage/assets/114856467/a518c309-c447-44ab-a51d-32f59af259ee)
+![Screenshot 2023-09-13 212037](https://github.com/divyanshrajpoot9/ActiveGamesTemplatePage/assets/114856467/19e16169-3fdb-4123-bd6f-115cae43e6ed)
+![Screenshot 2023-09-13 212047](https://github.com/divyanshrajpoot9/ActiveGamesTemplatePage/assets/114856467/75960d2f-268f-4399-a1fb-4f41c18cd97c)
+![Screenshot 2023-09-13 212108](https://github.com/divyanshrajpoot9/ActiveGamesTemplatePage/assets/114856467/40b2a12f-36c2-4c24-a8e7-d4a4d632b7dc)
+![Screenshot 2023-09-13 212117](https://github.com/divyanshrajpoot9/ActiveGamesTemplatePage/assets/114856467/a85ddcc7-56ac-4b93-acbb-48a1117b5f68)
+![Screenshot 2023-09-13 212129](https://github.com/divyanshrajpoot9/ActiveGamesTemplatePage/assets/114856467/58233c8f-a957-415f-9fe3-b83e19443d9e)
+![Screenshot 2023-09-13 212139](https://github.com/divyanshrajpoot9/ActiveGamesTemplatePage/assets/114856467/93b6f790-edf2-4932-84b9-50e78f045b6d)
+![Screenshot 2023-09-13 212147](https://github.com/divyanshrajpoot9/ActiveGamesTemplatePage/assets/114856467/847db53b-235c-44a6-a37b-f403a86260fc)
